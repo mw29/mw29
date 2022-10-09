@@ -1,6 +1,6 @@
 ### Hi, I'm Maddie!
 
-- Check out my [website](madelinewatts.com)
+- Check out my [website](madelinewatts.com) ✨
 
 <!--
 **mw29/mw29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
